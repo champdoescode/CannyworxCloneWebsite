@@ -1,0 +1,15 @@
+@media screen and (max-width: 764px){
+    .template-img{
+      display: none;
+    }
+    .mobile-temp{
+      display: block;
+      margin-top: 140px;
+    }
+    .grid-items{
+      display: flex;
+      flex-direction: column;
+      justify-content: center;
+      align-items: center;
+    }
+  }
